@@ -1,0 +1,21 @@
+{
+  "name": "smbdocker",
+  "description": "test git jenkins docker",
+  "version": "1.0.0",
+  "build": "1",
+  "homepage": "https://github.com/angular/angular-seed",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-route": "~1.5.0",
+    "angular-loader": "~1.5.0",
+    "angular-resource": "1.5.x",
+    "angular-mocks": "~1.5.0",
+    "angular-strap": "2.3.x",
+    "angular-translate": "2.x.x"
+  },
+  "resolutions": {
+    "angular-translate": "~2.12.1"
+  }
+}
