@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "angular",
   "version": "1.5.11",
@@ -7,3 +8,14 @@
   "dependencies": {
   }
 }
+=======
+{
+  "name": "angular",
+  "version": "1.5.11",
+  "license": "MIT",
+  "main": "./angular.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
+>>>>>>> 0a2b8bdde0d4321ded7224ad272f93a029590308
